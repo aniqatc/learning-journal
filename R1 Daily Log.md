@@ -62,3 +62,21 @@ Starting from the creation of the Internet to the innovative developments of the
 
 Unfortunately, while I do have a *growing* list of project ideas, I’m not ready to build any software or website just **yet** with the basic HTML and CSS knowledge that I have right now. However, until then, I’ll be working on **writing more articles for my blog**! I have a few ideas that I’ve already created an outline for that include some of the *above-mentioned topics*. Not only will writing blog posts **solidify my understanding of the topics** that I just learned but I hope that it *may help my readers out as well*. As I’m still in the outlining-and-planning stage, I can’t really say what the format will be *(long form content or a series or just cheatsheet style)* but it will definitely include topics from Internet, Web, and Browser processes.
 
+**Resources**
+
+I actually used a lot of resources because there wasn't really a standalone source or course that provided coverage of all the topics that I wanted to go over. So, **I used a combination of the following courses, articles, and videos:**
+
+- [Visual list of Web-related topics & resources](https://andreasbm.github.io/web-skills/)
+- [Documentation - Webopedia: Tech Dictionary](https://www.webopedia.com/)
+- [Documentation - MDN Web Docs: Web Mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#web_mechanics)
+- [Course - Khan Academy's Intro to Computers & Internet](https://www.khanacademy.org/computing/computers-and-internet/)
+- [Video - Traversy Media's HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0)
+- [GitHub Repo - What Happens When A URL Is Inputed in a Browser](https://github.com/alex/what-happens-when)
+- [Article - How Browsers Work: Behind the Scenes](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Documentation - Official OWASP Top 10 List](https://owasp.org/www-project-top-ten/)
+- [Documentation - MDN Web Docs: Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
+
+**Tomorrow**
+1. Start draft for a post about today's topics (which will also count as my review of these topics)
+2. **Learn all about Git, GitHub, Command Line Interface, and Chrome Developer Tools**
+3. Practice the basic commands that I’m most likely to use regularly
