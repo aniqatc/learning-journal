@@ -1,17 +1,17 @@
-# 100 Days of Code R1: Daily Log
+# 100 Days of Code R1: Topic Log
 
-_This page will be used to log my everyday progress for the first round of the #100DaysOfCode challenge. 
-The same information can be found on [my blog's daily log](https://www.aniqa.io/r1-daily-log/). For overall goals, please read the following article: [What I Hope To Accomplish During Round 1 of My #100DaysOfCode](www.aniqa.io/100-days-of-code-r1-goals-tasks/)._
+_This page will be used to log my everyday progress for the first round of the #100DaysOfCode challenge. Instead of counting by days, I'll be counting by topic.
+The same information can be found on [my blog's topic log](https://www.aniqa.io/r1-daily-log/). For overall goals, please read the following article: [What I Hope To Accomplish During Round 1 of My #100DaysOfCode](www.aniqa.io/100-days-of-code-r1-goals-tasks/)._
 
-_Additionally, to avoid an overly cluttered document, I'll be putting each passing day into a collapsible section (for example, Day 0 will be put into a collapsible section after Day 1 is posted and so forth._
+_Additionally, to avoid an overly cluttered document, I'll be putting each passing topic into a collapsible section (for example, Topic 0 will be put into a collapsible section after Topic 1 is posted and so forth) and the most latest topic explored will be shown._
 
 ---
-This log will be updated daily with:
-- The topics that I learned on that given day
-- Any challenges that I've faced
+This log will be updated every time a new topic is being explored with the following:
+- The specific topics that I learned
+- Any challenges that I've faced and the resolution
 - Any updates on projects that I may be working on
 - The resources that I am using to learn a specific topic
-- Potential plans for the following day
+- Potential plans for the following days
   
 ---
 <details><summary><b>Prior to 100 Days Of Code</b></summary>
@@ -27,7 +27,7 @@ To prepare for the start of my learning plan for full stack software development
 
 ---
 
-<b>Day 0 of 100 Days Of Code</b>
+<b>Topic 0 of 100 Days Of Code: Web & Internet Protocols</b>
 
 After experiencing the *addictiveness of coding*, a part of me just wants to skip all the topics that don't directly pertain to a programming language. But I also want to be a **successful**, *knowledgeable* Full Stack Software Developer – in fact, I want that *more*. So, I'm investing in **building a strong foundation**, or at the absolute minimum, understanding basic, foundational topics which I can eventually learn more about in the future if it becomes relevant to potential projects I want to build or to complete tasks at future jobs.
 
@@ -76,7 +76,7 @@ I actually used a lot of resources because there wasn't really a standalone sour
 - [Documentation - Official OWASP Top 10 List](https://owasp.org/www-project-top-ten/)
 - [Documentation - MDN Web Docs: Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 
-**Tomorrow**
+**Tomorrow & Beyond**
 1. Start draft for a post about today's topics (which will also count as my review of these topics)
 2. **Learn all about Git, GitHub, Command Line Interface, and Chrome Developer Tools**
 3. Practice the basic commands that I’m most likely to use regularly
