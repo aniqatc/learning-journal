@@ -15,6 +15,8 @@ This log will be updated every time a new topic is being explored with the follo
   
 ---
 <details><summary><b>Prior to 100 Days Of Code</b></summary>
+	
+**[Read it on my blog](https://www.aniqa.io/prior-r1/)**
   
 To prepare for the start of my learning plan for full stack software development:
   
@@ -28,6 +30,8 @@ To prepare for the start of my learning plan for full stack software development
 ---
 
 <b>Topic 0 of 100 Days Of Code: Web & Internet Protocols</b>
+
+**[Read it on my blog](www.aniqa.io/r1-topic-0/)**
 
 After experiencing the *addictiveness of coding*, a part of me just wants to skip all the topics that don't directly pertain to a programming language. But I also want to be a **successful**, *knowledgeable* Full Stack Software Developer – in fact, I want that *more*. So, I'm investing in **building a strong foundation**, or at the absolute minimum, understanding basic, foundational topics which I can eventually learn more about in the future if it becomes relevant to potential projects I want to build or to complete tasks at future jobs.
 
