@@ -90,7 +90,7 @@ I actually used a lot of resources because there wasn't really a standalone sour
 
 <b>Topic 1: Bash/Zsh Command Line</b>
 
-**[Read it on my blog](https://www.aniqa.io/r1-topic-0/)** I recommend the blog version as there is a downloadable book there + just better visuals!**
+**[Read it on my blog](https://www.aniqa.io/r1-topic-0/)** I recommend the blog version as there is a downloadable book there + just better visuals!
 
 One of the first observations I made when I entered into the world of programming is **that the development process is far more than just writing code and implementing design elements**. There isn’t just the single process of writing code but _many different processes from the back-end to the front-end to security to databases and more to successfully build and deploy a complete application_. But how can a single person that wants to create full stack applications _handle all_ of those aspects in the creation process? 
 
@@ -195,9 +195,13 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 - [Nano Text Editor Shortcuts](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 
 **Tomorrow and beyond**
+
 **1. Learn about an additional developer tool: Chrome Developer Tools**
+
 2. Continue using the Terminal to organize my files when needed
+ 
 3. Complete the editing on the web fundamentals article that I’ve been writing
+
 4. Start laying down a draft for the command line cheat sheet
 
 **Bonus Resources**
