@@ -29,7 +29,7 @@ To prepare for the start of my learning plan for full stack software development
 
 ---
 
-<details><summary><b>Topic 0 of 100 Days Of Code: Web & Internet Protocols</b></summary>
+<details><summary><b>Topic 0: Web & Internet Protocols</b></summary>
 
 **[Read it on my blog](https://www.aniqa.io/r1-topic-0/)**
 
@@ -88,7 +88,7 @@ I actually used a lot of resources because there wasn't really a standalone sour
 
 ---
 
-<b>Topic 1: Bash/Zsh Command Line</b>
+<details><summary><b>Topic 1: Bash/Zsh Command Line</b></summary>
 
 **[Read it on my blog](https://www.aniqa.io/r1-topic-0/)** I recommend the blog version as there is a downloadable book there + just better visuals!
 
@@ -209,4 +209,6 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 - [A generator to change your $PS1 Prompt Variable.](https://bashrcgenerator.com/)
 - [An amazing intuitive and interactive tool that can be added to your Terminal which will allow it to utilize cheatsheets in order to give you suggestions of relevant commands and more.](https://github.com/denisidoro/navi)
 - [After enjoying the free resources, I bought the whole series of Learn Enough Web Fundamentals which include the Command Line, Text Editor, and Git eBooks and videos.](https://www.learnenough.com/developer-fundamentals)
+</details>
 
+---
