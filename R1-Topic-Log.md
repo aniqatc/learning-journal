@@ -12,7 +12,7 @@ This log will be updated every time a new topic is being explored with the follo
 - Any updates on projects that I may be working on
 - The resources that I am using to learn a specific topic
 - Potential plans for the following days
-  
+
 ---
 <details><summary><b>Prior to 100 Days Of Code</b></summary>
 	
@@ -26,8 +26,6 @@ To prepare for the start of my learning plan for full stack software development
 * I've set up my own self-hosted blog on Ghost and edited the premium theme to customize it to fit my taste. To keep track of changes I made, I created my own documentation for the changes.
 * I created a syllabus of my own to follow.
 * I researched bootcamps, online courses, Udemy video classes, and other methods of learning to find the best resources to learn from. </details>
-
----
 
 <details><summary><b>Topic 0: Web & Internet Protocols</b></summary>
 
@@ -86,7 +84,6 @@ I actually used a lot of resources because there wasn't really a standalone sour
 3. Practice the basic commands that I’m most likely to use regularly 
 </details>
 
----
 
 <details><summary><b>Topic 1: Bash/Zsh Command Line</b></summary>
 
@@ -211,4 +208,3 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 - [After enjoying the free resources, I bought the whole series of Learn Enough Web Fundamentals which include the Command Line, Text Editor, and Git eBooks and videos.](https://www.learnenough.com/developer-fundamentals)
 </details>
 
----
