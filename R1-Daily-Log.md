@@ -38,5 +38,4 @@ I have so far gone over the following panels: Application, Lighthouse, Adblock, 
 
 Side note: I switched my notes over to Nota (a markdown editor) which will make it easier and faster to publish content to my blog more frequently. I'm now working on transforming my blog into a digital garden.
 
-<img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/nota.gif">
-
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/nota.gif"></p>
