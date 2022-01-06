@@ -8,25 +8,13 @@ _For my **daily log**, however, it will be less formal and more simple! I'll be 
 
 ---
 
-### Day 0
+### Before + Day 0
 
-Technically, I posted a ['Day 0' tweet](https://twitter.com/aniqatc/status/1473078287782096899?s=20) so I'll just count that here as my Day 0, even though there's a big gap between my Day 0 update and my Day 1 update. *In my defense, I was still figuring out the structure of how to #LearnInPublic...* But I now have a structure and plan in place so hopefully, there will be a continuous stream of daily updates from Day 1 and beyond.
+I wrote some blog posts about some of the fundamentals I learned & included the resources I used to learn them:
 
-**Anyways**, here's a quick overview of what Day 0 entailed:
-
-- 🌎 History of the Internet starting from ARPANET
-- 🧮 Bits, bytes, binary and hexadecimal system
-- 📒 Internet Protocols (IP) and IP Address
-- 🎛 Network systems and topologies
-- 📦 IP Packets and Routing
-- 🌐 UDP; TCP/IP Layers; OSI Model
-- 🔑 HTTP (including HTTP Exchanges, HTTP Status Codes, HTTPS and cURL)
-- 🔎 Domain Name System (DNS) and DNS Resolution
-- 🔒 Security Protocols (SSL/TLS, CORS)
-- 🚨 OWASP Top 10 Threats and Prevention
-- 🖥 Browsers + Rendering Engines
-
-**Bonus**: I wrote a blog post called ['Topic 0: Web & Internet Protocols'](https://www.aniqa.io/r1-topic-0/) that provides details on why I chose to learn these topics, the resources I used, and more!
+- [Prior to #100DaysOfCode: Research & Plan](https://www.aniqa.io/prior-r1/)
+- [Topic 0 of #100DaysOfCode: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
+- [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
 
 ---
 
