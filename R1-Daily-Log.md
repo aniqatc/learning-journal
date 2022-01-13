@@ -27,3 +27,46 @@ I have so far gone over the following panels: Application, Lighthouse, Adblock, 
 Side note: I switched my notes over to Nota (a markdown editor) which will make it easier and faster to publish content to my blog more frequently. I'm now working on transforming my blog into a digital garden.
 
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/nota.gif"></p>
+
+---
+
+### Day 2
+
+I've decided to take a short break from tutorial learning and blogging. Although I have a blog hosted on Ghost Pro that works perfectly fine, I still feel somewhat limited in sharing content and editing my theme. In addition to that, there isn't really a theme that fits my idea of simplicity with most themes being media-rich, and I'm not exactly ready to create my own. _But that doesn't mean I have to settle_ - I want a true **digital garden**. A place that I can share high-quality pieces of writing but also, share my unedited thoughts and notes to portray a _true_ #LearningInPublic journey. I want it to be content-focused and absent of images that take up space. I also want to have full flexibility to edit the codebase whenever I learn something new, like my own personal playground to test out new languages and frameworks.
+
+So, today, I learned about Static Site Generators (SSGs) and set up two different, minimal and content-focused themes:
+
+- ▲ Hugo theme deployed on Vercel
+- ◉ Gatsby theme deployed on Gatsby Cloud
+
+*I also learned how to use Digital Ocean and Netlify to deploy websites, however, I'll be sticking to the above for now.*
+
+I'm still deciding on which duo I prefer so I'll be playing around with both to see what fits my needs better! Switching over to an SSG from Ghost will be my project for the next few days.
+
+---
+
+### Day 3
+
+I've realized that Hugo is easier to edit and customize than Gatsby. This is likely because of my limited coding knowledge (basic HTML, CSS) but it's definitely the SSG I'd recommend to newbies. That being said, Gatsby just has so much more that you can do with it - with [countless plugins](https://www.gatsbyjs.com/plugins) so that you don't have to create your own. It's definitely been far more tricky to edit since I barely know JavaScript, let alone React. But I just can't let go of the customization that comes with using Gatsby. So, I've decided to stick to Gatsby!
+
+Luckily, combining Gatsby's very thorough documentation, individual plugin READMEs, my limited but sufficient coding knowledge, and making connections between theme files is proving to be enough to customize the starter-theme to my liking! 
+
+Also, worth noting, I added ![wakatime](https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg) to VSCode to record my time spent coding! 
+
+---
+
+### Day 4
+
+I'm finally adding the final touches to my Gatsby theme so I'll be back to learning from tutorials & blogging my journey again soon!
+
+Today, I used open-source React icons called **[react-feather](https://feathericons.com/)** to add social media icons to my navigation bar and share buttons to all my posts. I installed the icons using npm on my Terminal. From there it was easy - I declared the usage of these icons by 'importing' the ones I'll be using and then, set variables for the icon size & thickness. To further customize the icons, I used ':hover' with color and transform in a separate .css file.
+
+I'm pleased with the final results:
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/react-feather-icons.gif"></p>
+
+In addition to the icons, I also learned about dark mode practices and changed my dark mode theme colors accordingly!
+
+---
+
+### Day 5
+
