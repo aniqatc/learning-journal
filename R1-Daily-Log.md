@@ -47,7 +47,7 @@ I'm still deciding on which duo I prefer so I'll be playing around with both to 
 
 ### Day 3
 
-I've realized that Hugo is easier to edit and customize than Gatsby. This is likely because of my limited coding knowledge (basic HTML, CSS) but it's definitely the SSG I'd recommend to newbies. That being said, Gatsby just has so much more that you can do with it - with [countless plugins](https://www.gatsbyjs.com/plugins) so that you don't have to create your own. It's definitely been far more tricky to edit since I barely know JavaScript, let alone React. But I just can't let go of the customization that comes with using Gatsby. So, I've decided to stick to Gatsby!
+I've realized that Hugo is easier to edit and customize than Gatsby. This is likely because of my limited coding knowledge (basic HTML, CSS) but it's definitely the SSG I'd recommend to newbies. That being said, Gatsby just has so much more that you can do with it - with [countless plugins](https://www.gatsbyjs.com/plugins) so that you don't have to create your own. It's definitely been far more tricky to edit since I barely know JavaScript, let alone React. But I just can't let go of the customization that comes with using Gatsby even if Hugo is easier to maneuver. **So, I've decided to stick to Gatsby!**
 
 Luckily, combining Gatsby's very thorough documentation, individual plugin READMEs, my limited but sufficient coding knowledge, and making connections between theme files is proving to be enough to customize the starter-theme to my liking! 
 
@@ -59,7 +59,7 @@ Also, worth noting, I added ![wakatime](https://wakatime.com/badge/user/c1c1c183
 
 I'm finally adding the final touches to my Gatsby theme so I'll be back to learning from tutorials & blogging my journey again soon!
 
-Today, I used open-source React icons called **[react-feather](https://feathericons.com/)** to add social media icons to my navigation bar and share buttons to all my posts. I installed the icons using npm on my Terminal. From there it was easy - I declared the usage of these icons by 'importing' the ones I'll be using and then, set variables for the icon size & thickness. To further customize the icons, I used ':hover' with color and transform in a separate .css file.
+Today, I used open-source React icons called **[react-feather](https://feathericons.com/)** to add social media icons to my navigation bar and share buttons to all my posts. I installed the icons using npm on my Terminal. From there it was easy - I declared the usage of these icons by 'importing' the ones I'll be using and then, set variables for the icon size and line thickness. To further customize the icons, I used ':hover' with color and transform in a separate .css file.
 
 I'm pleased with the final results:
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/react-feather-icons.gif"></p>
