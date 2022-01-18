@@ -212,4 +212,3 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 
 <b>Topic 2: Chrome Developer Tools</b>
 
-**[Read it on my blog](https://www.aniqa.io/tags/)**
