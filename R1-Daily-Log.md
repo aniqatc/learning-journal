@@ -70,3 +70,11 @@ In addition to the icons, I also learned about dark mode practices and changed m
 
 ### Day 5
 
+I discovered a small JavaScript library called [Rough Notation](https://roughnotation.com) that allowed me to add customizable and animated annotations on webpages. The annotations can be customized by color, size, padding and animation order, duration, and delays.
+
+I tested it out on my new blog theme by injecting it into a .mdx file! It was easy to implement and a fun library to play around with. 
+
+Here's what it looks like in my light mode (slowed down by 50%):
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/rough-rotation-light.gif"></p>
+Here's what it looks like in my dark mode (slowed down by 50%):
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/rough-rotation-dark.gif"></p>
