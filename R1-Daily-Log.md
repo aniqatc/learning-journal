@@ -59,7 +59,7 @@ Also, worth noting, I added ![wakatime](https://wakatime.com/badge/user/c1c1c183
 
 I'm finally adding the final touches to my Gatsby theme so I'll be back to learning from tutorials & blogging my journey again soon!
 
-Today, I used open-source React icons called **[react-feather](https://feathericons.com/)** to add social media icons to my navigation bar and share buttons to all my posts. I installed the icons using npm on my Terminal. From there it was easy - I declared the usage of these icons by 'importing' the ones I'll be using and then, set variables for the icon size and line thickness. To further customize the icons, I used ':hover' with color and transform in a separate .css file.
+Today, I used open-source [React icons](https://feathericons.com/) called `react-feather` to add social media icons to my navigation bar and share buttons to all my posts. I installed the icons using `npm` on my Terminal. From there it was easy - I declared the usage of these icons by 'importing' the ones I'll be using and then, set variables for the icon size and line thickness. To further customize the icons, I used `:hover` with color and transform in a separate `.css` file.
 
 I'm pleased with the final results:
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/react-feather-icons.gif"></p>
@@ -72,7 +72,7 @@ In addition to the icons, I also learned about dark mode practices and changed m
 
 I discovered a small JavaScript library called [Rough Notation](https://roughnotation.com) that allowed me to add customizable and animated annotations on webpages. The annotations can be customized by color, size, padding and animation order, duration, and delays.
 
-I tested it out on my new blog theme by injecting it into a .mdx file! It was easy to implement and a fun library to play around with. 
+I tested it out on my new blog theme by injecting it into a `.mdx` file! It was easy to implement and a fun library to play around with. 
 
 Here's what it looks like in my light mode (slowed down by 50%):
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/rough-notation-light.gif"></p>
