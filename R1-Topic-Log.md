@@ -87,7 +87,7 @@ I actually used a lot of resources because there wasn't really a standalone sour
 
 <details><summary><b>Topic 1: Bash/Zsh Command Line</b></summary>
 
-**[Read it on my blog](https://www.aniqa.io/r1-topic-0/)** I recommend the blog version as there is a downloadable book there + just better visuals!
+**[Read it on my blog](https://www.aniqa.io/r1-topic-1/)** I recommend the blog version as there is a downloadable book there + just better visuals!
 
 One of the first observations I made when I entered into the world of programming is **that the development process is far more than just writing code and implementing design elements**. There isn’t just the single process of writing code but _many different processes from the back-end to the front-end to security to databases and more to successfully build and deploy a complete application_. But how can a single person that wants to create full stack applications _handle all_ of those aspects in the creation process? 
 
@@ -208,3 +208,8 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 - [After enjoying the free resources, I bought the whole series of Learn Enough Web Fundamentals which include the Command Line, Text Editor, and Git eBooks and videos.](https://www.learnenough.com/developer-fundamentals)
 </details>
 
+---
+
+<b>Topic 2: Chrome Developer Tools</b>
+
+**[Read it on my blog](https://www.aniqa.io/tags/)**
