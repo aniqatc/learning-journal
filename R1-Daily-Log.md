@@ -87,7 +87,7 @@ Here's what it looks like in my dark mode (slowed down by 50%):
 I've finally completed my new blog theme using Gatsby which is currently deployed on Vercel. While all the stylistic and layout choices have been decided in the previous days, I spent most of today transferring over my previous blog content from the Ghost platform to Markdown content for my new blog. 
 
 It took some time to get all the blog posts formatted, especially because I faced some bumps along the way. For example:
-- I needed to add import `react-twitter-widgets` into some of my `.mdx` files that hold my blog posts to get relevent tweets to show up among my content
+- I needed to add import `react-twitter-widgets` into some of my `.mdx` files that hold my blog posts to get relevant tweets to show up among my content
 - I needed to add support for `.gif` files by installing an additional Gatsby plugin which conflicted with my existing plugins so I had to find a fix for that. Once I figured out the best combination of plugins, I updated that information within the my `gatsby.config.js` file.
 
 Regardless, I'm honestly excited whenever I bump into an issue - it's exciting to fix! Lastly, I added Google Analytics support by adding in `gatsby-plugin-google-gtag` to my `gatsby.config.js` file. 
