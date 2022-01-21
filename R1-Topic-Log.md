@@ -214,4 +214,4 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 
 <b>Topic 3: Static Site Generator - Gatsby</b>
 
-<b>Topic 4: Deploying Websites - Vercel, Netlify, DigitalOcean, Gatsby Clou</b>
+<b>Topic 4: Deploying Websites - Vercel, Netlify, DigitalOcean, Gatsby Cloud</b>
