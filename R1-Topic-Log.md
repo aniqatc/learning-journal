@@ -212,3 +212,6 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 
 <b>Topic 2: Chrome Developer Tools</b>
 
+<b>Topic 3: Static Site Generator - Gatsby</b>
+
+<b>Topic 4: Deploying Websites</b>
