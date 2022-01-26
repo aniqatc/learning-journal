@@ -93,3 +93,15 @@ It took some time to get all the blog posts formatted, especially because I face
 Regardless, I'm honestly excited whenever I bump into an issue - it's exciting to fix! Lastly, I added Google Analytics support by adding in `gatsby-plugin-google-gtag` to my `gatsby.config.js` file. 
 
 *Side note: I might not be using Google Analytics for long - I discovered [Umami](https://umami.is/) today and love everything about it (from the UI to the fact it's free and open-source and provides such beautiful infographics). I would've already implemented it honestly but it's definitely a little more complicated than Google Analytics to install + I've taken too long of a break from my syllabus to build a new blog so I'll have to come back to it later.*
+
+---
+
+### Day 7
+
+Progressive-Web-App for https://www.aniqa.io
+
+---
+
+### Day 8
+
+Responsive images, testing Google Analytics with production builds, using `grid-template-column`, and doing final deploy to Vercel. Still using Ghost as newsletter.
