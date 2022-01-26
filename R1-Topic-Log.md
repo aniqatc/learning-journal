@@ -148,7 +148,7 @@ Regardless, it’ll be well worth any extra time I need to put in now when I’m
 
 As mentioned in the [Topic 0 post](https://www.aniqa.io/r1-topic-0/), I am not _yet_ building and have allocated the time that I’d be building **to further researching and writing about the foundational topics** that I’ve been learning which include [web and internet protocols](https://www.aniqa.io/r1-topic-0/), and from today onward, _the command line_. In terms of the post I mentioned outlining on Day 0, I’ve been able to draft a long-form article about web fundamentals in which I share the _importance of learning it and the basic definitions and use cases of the micro-processes behind internet and web protocols._
 
-I’ve also gotten started on building _my own command line cheatsheet for beginners_, which I hope to share next week after I’ve finished the article I’m currently writing. I know that there are so many cheat sheets out there already - in fact, I share several in this progress post but as I’ve noted several times in my blog, **writing these out in my own words is a form of learning and solidifying knowledge.**
+I’ve also gotten started on building _my own command line cheatsheet for beginners_, which I hope to share in the near future after I've taken care of some other content that is in the works. I know that there are so many cheat sheets out there already - in fact, I share several in this progress post but as I’ve noted several times in my blog, **writing these out in my own words is a form of learning and solidifying knowledge.**
 
 Apart from writing for my blog, I’ve found a few different resources online to continue practicing the fundamentals of the command line - [an online terminal in which I’m asked to input commands based on the task shown](https://cmdchallenge.com/) or [completing HackerRank challenges](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash), or [going through a list of tasks](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/practice-command-line) using my native Terminal. I've also just been messing around with it on my own as well - in fact, there's a gif on my [blog post version](https://www.aniqa.io/r1-topic-1/) of this update demonstrating a few commands.
 
@@ -212,3 +212,6 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 
 <b>Topic 2: Chrome Developer Tools</b>
 
+<b>Topic 3: Static Site Generator - Gatsby</b>
+
+<b>Topic 4: Deploying Websites - Vercel, Netlify, DigitalOcean, Gatsby Cloud</b>
