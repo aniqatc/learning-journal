@@ -1,6 +1,6 @@
-# 100 Days of Code R1: Topic Log
+# Learn in Public: Topic Log
 
-_This page will be used to log my everyday progress for the first round of the #100DaysOfCode challenge. Instead of counting by days, I'll be counting by topic.
+_This page will be used to log my everyday progress for the first round of the #100DaysOfCode/Learn-in-Public challenge. Instead of counting by days, I'll be counting by topic.
 The same information can be found on [my blog's topic log](https://www.aniqa.io/r1-topic-log/). For overall goals, please read the following article: [What I Hope To Accomplish During Round 1 of My #100DaysOfCode](www.aniqa.io/100-days-of-code-r1-goals-tasks/)._
 
 _Additionally, to avoid an overly cluttered document, I'll be putting each passing topic into a collapsible section (for example, Topic 0 will be put into a collapsible section after Topic 1 is posted and so forth) and the most latest topic explored will be shown._
@@ -14,7 +14,7 @@ This log will be updated every time a new topic is being explored with the follo
 - Potential plans for the following days
 
 ---
-<details><summary><b>Prior to 100 Days Of Code</b></summary>
+<details><summary><b>Prior to Learning in Public</b></summary>
 	
 **[Read it on my blog](https://www.aniqa.io/prior-r1/)**
   
