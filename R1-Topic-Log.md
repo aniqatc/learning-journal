@@ -151,7 +151,9 @@ As mentioned in the [Topic 0 post](https://www.aniqa.io/r1-topic-0/), I am not _
 
 I’ve also gotten started on building _my own command line cheatsheet for beginners_, which I hope to share in the near future after I've taken care of some other content that is in the works. I know that there are so many cheat sheets out there already - in fact, I share several in this progress post but as I’ve noted several times in my blog, **writing these out in my own words is a form of learning and solidifying knowledge.**
 
-Apart from writing for my blog, I’ve found a few different resources online to continue practicing the fundamentals of the command line - [an online terminal in which I’m asked to input commands based on the task shown](https://cmdchallenge.com/) or [completing HackerRank challenges](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash), or [going through a list of tasks](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/practice-command-line) using my native Terminal. I've also just been messing around with it on my own as well - in fact, there's a gif on my [blog post version](https://www.aniqa.io/r1-topic-1/) of this update demonstrating a few commands.
+Apart from writing for my blog, I’ve found a few different resources online to continue practicing the fundamentals of the command line - [an online terminal in which I’m asked to input commands based on the task shown](https://cmdchallenge.com/) or [completing HackerRank challenges](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash), or [going through a list of tasks](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/practice-command-line) using my native Terminal. I've also just been messing around with it on my own as well:
+	
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/terminal-demo.gif"></p>
 
 _Lastly_, I’ve actually hidden my Finder application from my laptop screen’s dock so that if I need any files opened, moved, deleted, or changed, **I should only use my Terminal.**
 
