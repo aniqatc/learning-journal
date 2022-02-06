@@ -126,17 +126,7 @@ Additionally, I learned how to use `grid-template-column` - *another CSS propert
 
 ---
 
-### Day 9 + 10
-
-Ever since I discovered 'Second-Brain-' and Digital Garden-styled personal websites, I've really wanted one of my own. Now, I'm not particularly ready to create a theme from scratch and while there are some great themes out there, I simply do not connect to any of the available digital garden themes. To be frank, I'd only be satisfied with something similar to <a href="https://brianlovin.com">Brian Lovin's website</a>. And again, I'm just not there yet. So I'm settling and trying to customize my current blog design as much as possible while still keeping it simple. It doesn't have everything I'd like but it gets the job done.
-
-That being said, I've been building my own 'second-brain' in my private, digital notebook and I didn't even know it. The only thing is - I never intended on anyone seeing it so it might have parts that literally no one except me would understand. But I really want to immerse in learning and building in public and creating my own second-brain. So, the past few days (technically, more than Day 9 & 10 but whatever), I've been editing my notes little-by-little so that it's readable for others.
-
-I'm really excited to share these notes - I really think it'll be helpful to others!
-
----
-
-### Day 11
+### Day 9
 
 I added a new post template to my blog for notes! While all my blog posts are written in `.mdx` files using VS Code, my notes are written in `.md` using a simple Markdown editor. So, I needed a separate template that would be compatible with converting `.md` files. After doing so, I tested to see if it works and if I'm successfully able to create custom slugs for each note file -- and fortunately, it worked!
 
@@ -145,6 +135,16 @@ I also wanted a separate note listing page and I opted to use `react-accessible-
 Here's what it's currently looking like:
 
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/accordion.gif"></p>
+
+---
+
+### Day 10 + 11
+
+Ever since I discovered 'Second-Brain-' and Digital Garden-styled personal websites, I've really wanted one of my own. Now, I'm not particularly ready to create a theme from scratch and while there are some great themes out there, I simply do not connect to any of the available digital garden themes. To be frank, I'd only be satisfied with something similar to <a href="https://brianlovin.com">Brian Lovin's website</a>. And again, I'm just not there yet. So I'm settling and trying to customize my current blog design as much as possible while still keeping it simple. It doesn't have everything I'd like but it gets the job done.
+
+That being said, I've been building my own 'second-brain' in my private, digital notebook and I didn't even know it. The only thing is - I never intended on anyone seeing it so it might have parts that literally no one except me would understand. But I really want to immerse in learning and building in public and creating my own second-brain. So, the past few days (technically, more than Day 10 & 11 but whatever), I've been editing my notes little-by-little so that it's readable for others.
+
+I'm really excited to share these notes - I really think it'll be helpful to others!
 
 ---
 
