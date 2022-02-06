@@ -98,10 +98,53 @@ Regardless, I'm honestly excited whenever I bump into an issue - it's exciting t
 
 ### Day 7
 
-Progressive-Web-App for https://www.aniqa.io
+As a final step to completing my blog *(who am I kidding - I can't stop messing with it)*, I turned my ordinary Gatsby blog into a Progressive Web App (PWA). PWAs provide users with an option to install a website as an application to their computer or mobile device using any browser. This feature is made possible with the use of service worker(s) and a web manifest. *It really works!* 
+
+For example, on my Google Chrome browser, the input bar has an additional icon and upon clicking it, an option comes up to install the website. *FYI, many well-known websites have this feature, including Twitter!*
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/install-pwa-aniqa.png"></p>
+
+Once installed, my website can be accessed like any other native application on your computer!
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/in-dock-aniqa.png"></p>
+
+The same rules apply even on mobile! The website can be added to your Home Screen by going into your browser options and simply clicking the relevant option *(for Safari on my iPhone, all I had to click was 'Add to Home Screen')*. You can then access the blog straight from your Home Screen, independent of a browser! 
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/mobile-pwa.jpeg"></p>
 
 ---
 
 ### Day 8
 
-Responsive images, testing Google Analytics with production builds, using `grid-template-column`, and doing final deploy to Vercel. Still using Ghost as newsletter.
+I noticed an annoying bug on my website when accessed through mobile: the images were not resizing down to a smaller size on mobile. Since I've always used Wordpress and Ghost in the past, I never had to think about making my images responsive to different screen sizes since it was always optimized in themes I bought.
+
+For the fix, I learned the CSS property, `max-width:100%`. Simply adding the `style="max-width:100%"` to all my images, they resized to fit the screen no matter how small or large. However, having to add the property inline was annoying and I may not remember to include it every time that I post, so I added the property to my main stylesheet making sure that the style applies to any `<img>` tag.
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/max-width.gif"></p>
+
+Additionally, I learned how to use `grid-template-column` - *another CSS property* to create columns in my content.
+
+---
+
+### Day 9 + 10
+
+Ever since I discovered 'Second-Brain-' and Digital Garden-styled personal websites, I've really wanted one of my own. Now, I'm not particularly ready to create a theme from scratch and while there are some great themes out there, I simply do not connect to any of the available digital garden themes. To be frank, I'd only be satisfied with something similar to <a href="https://brianlovin.com">Brian Lovin's website</a>. And again, I'm just not there yet. So I'm settling and trying to customize my current blog design as much as possible while still keeping it simple. It doesn't have everything I'd like but it gets the job done.
+
+That being said, I've been building my own 'second-brain' in my private, digital notebook and I didn't even know it. The only thing is - I never intended on anyone seeing it so it might have parts that literally no one except me would understand. But I really want to immerse in learning and building in public and creating my own second-brain. So, the past few days (technically, more than Day 9 & 10 but whatever), I've been editing my notes little-by-little so that it's readable for others.
+
+I'm really excited to share these notes - I really think it'll be helpful to others!
+
+---
+
+### Day 11
+
+I added a new post template to my blog for notes! While all my blog posts are written in `.mdx` files using VS Code, my notes are written in `.md` using a simple Markdown editor. So, I needed a separate template that would be compatible with converting `.md` files. After doing so, I tested to see if it works and if I'm successfully able to create custom slugs for each note file -- and fortunately, it worked!
+
+I also wanted a separate note listing page and I opted to use `react-accessible-accordion` which allows for collapsible rows of information. For my usage, I wanted to use the Accordion styled rows to link to my notes and make them separated by subjects.
+
+Here's what it's currently looking like:
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/accordion.gif"></p>
+
+---
+
