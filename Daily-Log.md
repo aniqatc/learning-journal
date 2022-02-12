@@ -1,8 +1,8 @@
-# 100 Days of Code R1: Daily Log
+# Daily Log
 
 _Welcome to my **daily progress log**!_
 
-_This log is slightly **different** from my [blog's topic log](https://www.aniqa.io/r1-topic-log/) or [my GitHub topic log](https://github.com/aniqatc/100-days-of-code/blob/main/R1-Topic-Log.md) that I've been contributing to recently. The topic log includes standalone blog posts that include my detailed progress updates on what I've learned, challenges I've faced, projects I'm working on, and the list of resources that were used during my learning over the course of a few days for a **single** topic._
+_This log is slightly **different** from my [blog's topic log](https://www.aniqa.io/r1-topic-log/) or [my GitHub topic log](https://github.com/aniqatc/learning-journal/blob/main/Topic-Log.md) that I've been contributing to recently. The topic log includes standalone blog posts that include my detailed progress updates on what I've learned, challenges I've faced, projects I'm working on, and the list of resources that were used during my learning over the course of a few days for a **single** topic._
 
 _For my **daily log**, however, it will be less formal and more simple! I'll be using this daily log **to document my daily progress** regardless of the topic that I'm on - basically how everyone else does it. For those quick, short updates, you can visit this repo (⭐️ it to stay updated); or if you fancy more rich content, then visit the [blog version for my daily updates](https://www.aniqa.io/r1-daily-log/)._
 
