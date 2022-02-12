@@ -148,3 +148,27 @@ I'm really excited to share these notes - I really think it'll be helpful to oth
 
 ---
 
+### Day 12
+
+I added a new style to all the links on my website. There's a thin gradient underline on all of the links on my site and upon hover, the link is highlighted with a beautiful light gradient. While most of my site is quite simple (in my opinion), I thought the addition of this small stylistic detail might add a little more personality. 
+
+Here's what it looks like upon hover in light mode:
+
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/link-hover-light.gif"></p>
+
+Here's what it looks like upon hover in dark mode:
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/link-hover-dark.gif"></p>
+
+However, I did face an issue with the hover style effecting icon and image links, like my avatar in my site's header. 
+<p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/link-hover-issue.gif"></p>
+
+To combat this particular issue, I learned of a new CSS property that involves using `:not( )`. For example, originally, I was selecting all links in my CSS file by applying the gradient and hover style to `a` to select all links -- this would select everything, including the images and icons that are linked to a different page. So, the `:not( )` property allows me to identify the classes that I'd like to exclude from being effected by the global `a` style that I'm implementing. For example, the syntax would be as follows: 
+```
+a:not(except-header-link) { 
+include styles here
+}
+```
+
+This solved the issue! 
+
+---
