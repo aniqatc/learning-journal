@@ -30,7 +30,7 @@ To prepare for the start of my learning plan for full stack software development
 
 <details><summary><b>Topic 0: Web & Internet Protocols</b></summary>
 
-**[Read it on my blog](https://www.aniqa.io/topic-0/)**
+**[Read it on my blog](https://www.aniqa.io/r1-topic-0/)**
 
 After experiencing the *addictiveness of coding*, a part of me just wants to skip all the topics that don't directly pertain to a programming language. But I also want to be a **successful**, *knowledgeable* Full Stack Software Developer – in fact, I want that *more*. So, I'm investing in **building a strong foundation**, or at the absolute minimum, understanding basic, foundational topics which I can eventually learn more about in the future if it becomes relevant to potential projects I want to build or to complete tasks at future jobs.
 
@@ -88,7 +88,7 @@ I actually used a lot of resources because there wasn't really a standalone sour
 
 <details><summary><b>Topic 1: Bash/Zsh Command Line</b></summary>
 
-**[Read it on my blog](https://www.aniqa.io/topic-1/)** I recommend the blog version as there is a downloadable book there + just better visuals!
+**[Read it on my blog](https://www.aniqa.io/r1-topic-1/)** I recommend the blog version as there is a downloadable book there + just better visuals!
 
 One of the first observations I made when I entered into the world of programming is **that the development process is far more than just writing code and implementing design elements**. There isn’t just the single process of writing code but _many different processes from the back-end to the front-end to security to databases and more to successfully build and deploy a complete application_. But how can a single person that wants to create full stack applications _handle all_ of those aspects in the creation process? 
 
@@ -147,7 +147,7 @@ Regardless, it’ll be well worth any extra time I need to put in now when I’m
 
 **Projects Updates**
 
-As mentioned in the [Topic 0 post](https://www.aniqa.io/topic-0/), I am not _yet_ building and have allocated the time that I’d be building **to further researching and writing about the foundational topics** that I’ve been learning which include [web and internet protocols](https://www.aniqa.io/topic-0/), and from today onward, _the command line_. In terms of the post I mentioned outlining on Day 0, I’ve been able to draft a long-form article about web fundamentals in which I share the _importance of learning it and the basic definitions and use cases of the micro-processes behind internet and web protocols._
+As mentioned in the [Topic 0 post](https://www.aniqa.io/r1-topic-0/), I am not _yet_ building and have allocated the time that I’d be building **to further researching and writing about the foundational topics** that I’ve been learning which include [web and internet protocols](https://www.aniqa.io/r1-topic-0/), and from today onward, _the command line_. In terms of the post I mentioned outlining on Day 0, I’ve been able to draft a long-form article about web fundamentals in which I share the _importance of learning it and the basic definitions and use cases of the micro-processes behind internet and web protocols._
 
 I’ve also gotten started on building _my own command line cheatsheet for beginners_, which I hope to share in the near future after I've taken care of some other content that is in the works. I know that there are so many cheat sheets out there already - in fact, I share several in this progress post but as I’ve noted several times in my blog, **writing these out in my own words is a form of learning and solidifying knowledge.**
 
@@ -159,7 +159,7 @@ _Lastly_, I’ve actually hidden my Finder application from my laptop screen’s
 
 **Resources**
 
-Similar to navigating [web and internet protocol resources](https://www.aniqa.io/topic-0/), I faced the issue of not being able to find *strong standalone resources* to learn the command line and its shell, Bash, beyond the basics. So, I had to use a variety of different courses and documentation to get more out of the topic. In doing so, some of these resources exposed me to **regular expressions (regexes)** and text editors, **Vim** and **Nano**, which I hope to continue learning as I move further along my journey. That being said, I've tried to include different types of resources to fit different needs and also, some may be more advanced for those that want to take it a step further. 
+Similar to navigating [web and internet protocol resources](https://www.aniqa.io/r1-topic-0/), I faced the issue of not being able to find *strong standalone resources* to learn the command line and its shell, Bash, beyond the basics. So, I had to use a variety of different courses and documentation to get more out of the topic. In doing so, some of these resources exposed me to **regular expressions (regexes)** and text editors, **Vim** and **Nano**, which I hope to continue learning as I move further along my journey. That being said, I've tried to include different types of resources to fit different needs and also, some may be more advanced for those that want to take it a step further. 
 
 **Here are the sources that were used (& still being used + extras) in my learning:**
 <small>_Highly Recommended, paid resources w/ most coverage of topics ranging from beginner to introduction to advanced & hands-on practice; although for deeper understanding, other resources are needed._</small>
@@ -169,7 +169,7 @@ Similar to navigating [web and internet protocol resources](https://www.aniqa.io
 - **[Course - Code Academy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)**
 - **[Course - Code Academy: Learn Bash Scripting](https://www.codecademy.com/learn/bash-scripting)**
 
-<i><small>CodeAcademy also provides certificates upon completion! Visit my [blog post version](https://www.aniqa.io/topic-1/) of this update to view mine!</small></i>
+<i><small>CodeAcademy also provides certificates upon completion! Visit my [blog post version](https://www.aniqa.io/r1-topic-1/) of this update to view mine!</small></i>
 
 <small><b>*Following choices include free options, introductory/basic tutorials, video and interactive games)*</small></b>
 - [Course Section - The Odin Project: Command Line Basics](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/command-line-basics-web-development-101)
