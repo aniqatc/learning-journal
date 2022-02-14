@@ -172,3 +172,15 @@ include styles here
 This solved the issue! 
 
 ---
+
+### Day 13 + 14
+
+On Day 9 *(mentioned above)*, I used `react-accessible-accordion` to create a listing page for all my notes. I realized that I'd rather utilize the Accordion design for shorter pieces of information like a *"Today I Learned" code snippet page*. However, for my note pages, I added a filesystem-style listing page instead. I feel that this is a better way to organize notes, especially as my notes grow into the hundreds and possibly, thousands. It provides an option to view the notes as if you're navigating my personal Finder (file manager).
+
+Here's a .gif of how the note-system is currently organized:
+
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/wiki-system.gif?raw=true"></p>
+
+I've also removed the Subscribe Form from the footer since it would show up on every single page - now, it only shows up on the Homepage. All other pages have a new footer design that works as a secondary menu to my most important links *(which includes a quick path back to blog listings, wiki entries, TIL log, master list of resources, my twitter and my email list sign-up)* so that users do not have to scroll all the way back up to the beginning of the page to navigate my website.
+
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/secondary-footer.png?raw=true"></p>
