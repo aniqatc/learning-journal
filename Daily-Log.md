@@ -175,12 +175,66 @@ This solved the issue!
 
 ### Day 13 + 14
 
-On Day 9 *(mentioned above)*, I used `react-accessible-accordion` to create a listing page for all my notes. I realized that I'd rather utilize the Accordion design for shorter pieces of information like a *"Today I Learned" code snippet page*. However, for my note pages, I added a filesystem-style listing page instead. I feel that this is a better way to organize notes, especially as my notes grow into the hundreds and possibly, thousands. It provides an option to view the notes as if you're navigating my personal Finder (file manager).
+On Day 9 *(mentioned above)*, I used `react-accessible-accordion` to create a listing page for all my notes. I realized that I'd rather utilize the Accordion design for shorter pieces of information like a *"Today I Learned" code snippet page*. 
+
+However, for my note pages, I added a filesystem-style listing page instead. I feel that this is a better way to organize notes, especially as my notes grow into the hundreds and possibly, thousands. It provides an option to view the notes as if you're navigating my personal Finder (file manager).
 
 Here's a .gif of how the note-system is currently organized:
 
 <p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/wiki-system.gif?raw=true"></p>
 
-I've also removed the Subscribe Form from the footer since it would show up on every single page - now, it only shows up on the Homepage. All other pages have a new footer design that works as a secondary menu to my most important links *(which includes a quick path back to blog listings, wiki entries, TIL log, master list of resources, my twitter and my email list sign-up)* so that users do not have to scroll all the way back up to the beginning of the page to navigate my website.
+I've also removed the Subscribe Form from the footer since it would show up on every single page - now, it only shows up on the Homepage. All other pages have a new footer design that works as a secondary menu to my most important links *(which includes a quick path back to blog listings, wiki entries, TIL log, master list of resources, my twitter and my email list sign-up)* so that users do not have to scroll all the way back up to the beginning of the page to navigate my website. The icons I utilized for the secondary footer are the same as the icons used throughout the rest of my website: `react-feather`.
 
 <p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/secondary-footer.png?raw=true"></p>
+
+---
+
+### Day 15
+
+My website has been a work-in-progress for about a month now. So, although I'm nearing the end of any major changes I have planned for this version of my website, I felt that I should indicate to any visitors that my website is still under construction:
+
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/site-under-construction.png?raw=true"></p>
+
+Majority of my website is complete and functional with content available in the blog section. However, there is some sample content in certain corners of my website like the **Today I Learned (/til)** or **Wiki (/wiki)** sections. So, I made sure to specify that in the banner so that I don't completely deter every visitor away with a bunch of *lorem ipsum* pages. I should've created such a banner a while ago but I thought I'd be done by now. Boy, was I wrong - I know very little coding so creating this website has thrown me into a crash course on all things Gatsbyjs & web development. Anyways, hopefully I won't need to keep the *under construction* banner up for too long.
+
+**Additional changes that I made today:**
+
+**1. Subscribe Form:**
+  -  Edited the CSS to make it more responsive, specifically for smaller phones
+  -  Edited the overall style of the Subscription Form to make it stand out a little more (considering the fact that most of my site is quite simple)
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/subscribe-form.png?raw=true"></p>
+
+**2. Wiki:**
+  - Added custom styling to the Wiki page
+  - Utilized `react-feather` icons for the Wiki-system
+
+**3. Code Syntax Highlighting:**
+  - While the default syles are quite nice, I made some edits to the code snippet styling to make sure that the color scheme matches the rest of my website
+  - Added styles for inline code
+
+---
+
+### Day 16
+
+Today was a big day in terms of understanding the possibilities of building with Gatsby. Although I've spent the past month playing around with Gatsby, I have tried my best to steer clear of **GraphQL**. I have been intimidated by it especially with my lack of experience so far. I just wanted my own website up-and-running with some level of organization and I was able to do a lot without touching too much GraphQL queries besides the ones that are already built in my code. But I've realized I have way too much fun playing around with coding and learning along the way so I've just been falling in deeper and deeper with the Gatsby system.
+
+Luckily, I've been able to solve a lot of problems on my own. But now that I wanted my own **wiki** section in addition to my existing blog function - things were getting complicated and I didn't care because I want what I want. So, it was time to use GraphQL.
+
+Gatsby has a GraphQL explorer that can be accessed via `http://localhost:8000/___graphql` and can be accessed every time that you host your site on localhost:
+
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/gatsby-graphql.png?raw=true"></p>
+
+Through this IDE, it's actually **EASY** as hell to create queries that can be used to pull data. Now, I won't go over it in detail here (cause this is just my journal and I doubt anyone reads this) but I'll share what I wanted to accomplish: **to pull frontmatter data from my individual wiki entries to use in SEO-optimization, content organization AND adding detail to the template**.
+
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/graphql-example.png?raw=true"></p>
+
+So, I used Graphql to create queries specifically for data inputted into the frontmatter of my wikis. Since my wiki section is completely new and unoptimized, it doesn't have any tagging system or organization in place or built-in SEO. In fact, the title doesn't even get queried and pulled into my note template. So, I used the IDE to identify the following frontmatter: title, topic, stage, date and description.
+
+Then, I added and identified the Graphql queries (in the appropriate syntax) into my wiki templates so that I could now have each wiki entry automatically display the title, topic, stage, and date at the beginning of each entry like a blog post! 
+
+For SEO, I used `react-helmet` within my wiki template so that it can pull title and description directly from the frontmatter of each wiki entry to use as SEO metadata. I confirmed that the SEO metadata was working by going into Chrome Developer Tools and checking for all the `<meta>` tags in between the `<head>` section of my code and saw that the browser was correctly identifying the metadata. Previously, it was showing general website metadata and not post-specific information.
+
+---
+
+### Day 17
+
