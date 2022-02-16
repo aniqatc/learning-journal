@@ -238,3 +238,29 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 
 ### Day 17
 
+**I'm a few commits away from completing my digital garden!** Today, I got a lot of styling and organization done! I'm quite satisfied with how everything is starting to look and function. Here's what I did **(hint: it involves lots of CSS)**:
+
+
+- I changed the styling of the header for my [blog posts](https://www.aniqa.io/full-stack-development-path-goals), (previously was aligned to the left, plain text styling):
+
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/v1-aniqa/master/static/blog-post-design.gif"></p>
+
+
+- I added frontmatter data (title, date, stage, topic, and author) to my [wiki note header section](https://www.aniqa.io/wiki/binary/bits-and-bytes) (previously had nothing except body of text):
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/v1-aniqa/master/static/wiki-note-design.gif"></p>
+
+
+- I added styling to the details that were pulled into the wiki template. Additionally, to clarify, the 'stage' value represents whether a note is a '🌱 Seedling' which is an incomplete note or '🪴 Evergreen' for notes that likely won't have any information added to it anymore.
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/wiki-details.png"></p>
+
+
+- Added a **[syllabus page](https://www.aniqa.io/resources)** to include information about resources I use to learn and the topics I'm learning just like a syllabus
+- Added `react-accessible-accordion` and `react-tabs` to the **syllabus page**
+- Edited the styling of both the `react-accessible-accordion` and `react-tabs` to fit the styling of the rest of my website:
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/react-tabs.gif"></p>
+
+
+
+**Tomorrow**
+
+I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with ALL of the notes, so I'll probably post several each week as opposed to all of them at once. **FYI, I have over 50 pages of notes with tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, Gatsbyjs, and random snippets of information that will be put into the 'Today I Learned' section.** What I'm trying to say here is that it took a long time to get everything organized. My hope is that once everything is uploaded, I can rest easy and start working on more hands-on projects!
