@@ -260,7 +260,8 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/react-tabs.gif"></p>
 
 
-
 **Tomorrow**
 
-I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with ALL of the notes, so I'll probably post several each week as opposed to all of them at once. **FYI, I have over 50 pages of notes with tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, Gatsbyjs, and random snippets of information that will be put into the 'Today I Learned' section.** What I'm trying to say here is that it took a long time to get everything organized. My hope is that once everything is uploaded, I can rest easy and start working on more hands-on projects!
+I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with all my notes all at once, so I'll probably post several each week as opposed to all of them at once. 
+
+**FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line and GatsbyJS for the wiki section; plus, some random snippets of information that will be put into the 'Today I Learned' section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on more hands-on projects!
