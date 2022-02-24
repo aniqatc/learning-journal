@@ -6,7 +6,7 @@ _This log is slightly **different** from my [blog's topic log](https://www.aniqa
 
 _For my **daily log**, however, it will be less formal and more simple! I'll be using this daily log **to document my daily progress** regardless of the topic that I'm on - basically how everyone else does it. For those quick, short updates, you can visit this repo (⭐️ it to stay updated); or if you fancy more rich content, then visit the [blog version for my daily updates](https://www.aniqa.io/r1-daily-log/)._
 
----
+<details><summary><b>Before + Day 0</b></summary>
 
 ### Before + Day 0
 
@@ -15,9 +15,11 @@ I wrote some blog posts about some of the fundamentals I learned & included the 
 - [Prior to #100DaysOfCode: Research & Plan](https://www.aniqa.io/prior-r1/)
 - [Topic 0 of #100DaysOfCode: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
 - [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
+  
+</details>
 
----
-
+<details><summary><b>Day 1</b></summary>
+  
 ### Day 1
 
 I've spent the past few days learning about Google's Chrome Developer Tools and practiced using almost all of the main features on [my website](https://www.aniqa.io). It was honestly lots of fun messing around with the code, learning more about the security and network protocols that my website is using (which also ties into my understanding of [Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)), and how to find and fix issues with my code. *There were times that I got lost just using the tool, especially the Element, Console, and Network panels.*
@@ -27,8 +29,10 @@ I have so far gone over the following panels: Application, Lighthouse, Adblock, 
 Side note: I switched my notes over to Nota (a markdown editor) which will make it easier and faster to publish content to my blog more frequently. I'm now working on transforming my blog into a digital garden.
 
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/nota.gif"></p>
+  
+</details>
 
----
+<details><summary><b>Day 2</b></summary>
 
 ### Day 2
 
@@ -43,7 +47,9 @@ So, today, I learned about Static Site Generators (SSGs) and set up two differen
 
 I'm still deciding on which duo I prefer so I'll be playing around with both to see what fits my needs better! Switching over to an SSG from Ghost will be my project for the next few days.
 
----
+  </details>
+  
+<details><summary><b>Day 3</b></summary>
 
 ### Day 3
 
@@ -53,7 +59,9 @@ Luckily, combining Gatsby's very thorough documentation, individual plugin READM
 
 Also, worth noting, I added ![wakatime](https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg) to VSCode to record my time spent coding! 
 
----
+  </details>
+  
+<details><summary><b>Day 4</b></summary>
 
 ### Day 4
 
@@ -66,7 +74,9 @@ I'm pleased with the final results:
 
 In addition to the icons, I also learned about dark mode practices and changed my dark mode theme colors accordingly!
 
----
+  </details>
+  
+<details><summary><b>Day 5</b></summary>
 
 ### Day 5
 
@@ -80,7 +90,9 @@ Here's what it looks like in my light mode (slowed down by 50%):
 Here's what it looks like in my dark mode (slowed down by 50%):
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/rough-notation-dark.gif"></p>
 
----
+  </details>
+  
+<details><summary><b>Day 6</b></summary>
 
 ### Day 6
 
@@ -94,7 +106,9 @@ Regardless, I'm honestly excited whenever I bump into an issue - it's exciting t
 
 *Side note: I might not be using Google Analytics for long - I discovered [Umami](https://umami.is/) today and love everything about it (from the UI to the fact it's free and open-source and provides such beautiful infographics). I would've already implemented it honestly but it's definitely a little more complicated than Google Analytics to install + I've taken too long of a break from my syllabus to build a new blog so I'll have to come back to it later.*
 
----
+  </details>
+  
+<details><summary><b>Day 7</b></summary>
 
 ### Day 7
 
@@ -112,7 +126,9 @@ The same rules apply even on mobile! The website can be added to your Home Scree
 
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/mobile-pwa.jpeg"></p>
 
----
+  </details>
+  
+<details><summary><b>Day 8</b></summary>
 
 ### Day 8
 
@@ -124,7 +140,9 @@ For the fix, I learned the CSS property, `max-width:100%`. Simply adding the `st
 
 Additionally, I learned how to use `grid-template-column` - *another CSS property* to create columns in my content.
 
----
+  </details>
+  
+<details><summary><b>Day 9</b></summary>
 
 ### Day 9
 
@@ -136,7 +154,9 @@ Here's what it's currently looking like:
 
 <p align="center"><img src="https://github.com/aniqatc/100-days-of-code/blob/main/Assets/accordion.gif"></p>
 
----
+  </details>
+  
+<details><summary><b>Day 10 + 11</b></summary>
 
 ### Day 10 + 11
 
@@ -146,7 +166,9 @@ That being said, I've been building my own 'second-brain' in my private, digital
 
 I'm really excited to share these notes - I really think it'll be helpful to others!
 
----
+  </details>
+  
+<details><summary><b>Day 12</b></summary>
 
 ### Day 12
 
@@ -171,7 +193,9 @@ include styles here
 
 This solved the issue! 
 
----
+  </details>
+  
+<details><summary><b>Day 13 + 14</b></summary>
 
 ### Day 13 + 14
 
@@ -187,7 +211,9 @@ I've also removed the Subscribe Form from the footer since it would show up on e
 
 <p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/secondary-footer.png?raw=true"></p>
 
----
+  </details>
+  
+<details><summary><b>Day 15</b></summary>
 
 ### Day 15
 
@@ -212,7 +238,9 @@ Majority of my website is complete and functional with content available in the 
   - While the default syles are quite nice, I made some edits to the code snippet styling to make sure that the color scheme matches the rest of my website
   - Added styles for inline code
 
----
+  </details>
+  
+<details><summary><b>Day 16</b></summary>
 
 ### Day 16
 
@@ -234,7 +262,9 @@ Then, I added and identified the Graphql queries (in the appropriate syntax) int
 
 For SEO, I used `react-helmet` within my wiki template so that it can pull title and description directly from the frontmatter of each wiki entry to use as SEO metadata. I confirmed that the SEO metadata was working by going into Chrome Developer Tools and checking for all the `<meta>` tags in between the `<head>` section of my code and saw that the browser was correctly identifying the metadata. Previously, it was showing general website metadata and not post-specific information.
 
----
+  </details>
+  
+<details><summary><b>Day 17</b></summary>
 
 ### Day 17
 
@@ -260,7 +290,9 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/react-tabs.gif"></p>
 
 
----
+  </details>
+  
+<details><summary><b>Day 18</b></summary>
 
 ### Day 18
 
@@ -276,10 +308,15 @@ I've gotten a lot of requests to share the syllabus, hence, I created my <a href
 
 So far, I've added the topics I've already completed my learning for. I'll be adding the rest in the coming days (along with the content for my <a href="https://www.aniqa.io/wiki">Wiki section</a>).
 
----
+  </details>
 
-**Before March**
+<hr/>
+ 
+
+  <b>Quick notes about completion of <a href="https://www.aniqa.io/wiki">Wiki section</a>.</b>
+  
 
 I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with all my notes all at once, so I'll probably post several each week as opposed to all of them at once. 
 
 **FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, git, Github and GatsbyJS for the wiki section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on other projects that I have planned!
+
