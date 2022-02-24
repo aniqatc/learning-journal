@@ -260,8 +260,26 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/react-tabs.gif"></p>
 
 
-**Tomorrow**
+---
+
+### Day 18
+
+While all of the stylistic changes are mostly complete for my personal website, I still need to fill certain pages with content. A few weeks back, when I first started this journey to learn web development, I created my own syllabus of sorts. I did serious research on the best resources, how to learn effectively, and the topics I'd need to go over to be a successful developer. I ended up building a long checklist of topics that I'm now using as my guide. I don't particularly think that I need to master every single topic inside-and-out because that would quite literally take a lifetime, but I plan on at least getting an introductory-to-intermediate understanding on most topics. 
+
+I've gotten a lot of requests to share the syllabus, hence, I created my <a href="https://www.aniqa.io/syllabus">Syllabus</a> page. On the syllabus page, I'm using `react-accessible-accordion` and `react-tabs` to organize two list: **Checklist** and **Resources**.
+
+- `react-tabs` was utilized to separate the information under **Checklist** and **Resources**:
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/tab-syllabus.gif"></p>
+
+- `react-accessible-accordion` was used to separate the lists of resources and lists of topics by subject so that it's easier to navigate to the information you need:
+<p align="center"><img src="/Assets/detail-syllabus.gif"></p>
+
+So far, I've added the topics I've already completed my learning for. I'll be adding the rest in the coming days (along with the content for my <a href="https://www.aniqa.io/wiki">Wiki section</a>).
+
+---
+
+**Before March**
 
 I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with all my notes all at once, so I'll probably post several each week as opposed to all of them at once. 
 
-**FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line and GatsbyJS for the wiki section; plus, some random snippets of information that will be put into the 'Today I Learned' section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on more hands-on projects!
+**FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, git, Github and GatsbyJS for the wiki section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on other projects that I have planned!
