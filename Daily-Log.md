@@ -309,6 +309,19 @@ I've gotten a lot of requests to share the syllabus, hence, I created my <a href
 So far, I've added the topics I've already completed my learning for. I'll be adding the rest in the coming days (along with the content for my <a href="https://www.aniqa.io/wiki">Wiki section</a>).
 
   </details>
+  
+   
+  <details><summary><b>Day 19</b></summary>
+    
+### Day 19
+    
+As mentioned in Day 17 & 18, I've been working on the [Syllabus](https://www.aniqa.io/syllabus) page on my [website](https://www.aniqa.io). The page serves as my own personal Full Stack Software Development roadmap, checklist, and list of resources to use.
+    
+Today, I mostly worked on adding additional content for the resource and checklist section. The page currently shows the following information (although, a few may not be complete *just yet*):
+<p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/current-syllabus-list.png?raw=true"></p>
+    
+Once all the content is uploaded to the Syllabus page, I'll be working on making more wiki entries!
+  </details>
 
 <hr/>
  
@@ -319,4 +332,4 @@ So far, I've added the topics I've already completed my learning for. I'll be ad
 I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with all my notes all at once, so I'll probably post several each week as opposed to all of them at once. 
 
 **FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, git, Github and GatsbyJS for the wiki section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on other projects that I have planned!
-
+  
