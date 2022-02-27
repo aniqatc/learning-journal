@@ -6,8 +6,6 @@ _This log is slightly **different** from my [blog's topic log](https://www.aniqa
 
 _For my **daily log**, however, it will be less formal and more simple! I'll be using this daily log **to document my daily progress** regardless of the topic that I'm on - basically how everyone else does it. For those quick, short updates, you can visit this repo (⭐️ it to stay updated); or if you fancy more rich content, then visit the [blog version for my daily updates](https://www.aniqa.io/r1-daily-log/)._
 
-<details><summary><b>Before + Day 0</b></summary>
-
 ### Before + Day 0
 
 I wrote some blog posts about some of the fundamentals I learned & included the resources I used to learn them:
@@ -16,9 +14,8 @@ I wrote some blog posts about some of the fundamentals I learned & included the 
 - [Topic 0 of #100DaysOfCode: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
 - [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
   
-</details>
 
-<details><summary><b>Day 1</b></summary>
+<details><summary><b>Day 1: Navigating Chrome Developer Tools & Taking Notes</b></summary>
   
 ### Day 1
 
@@ -32,7 +29,7 @@ Side note: I switched my notes over to Nota (a markdown editor) which will make 
   
 </details>
 
-<details><summary><b>Day 2</b></summary>
+<details><summary><b>Day 2: Switching Ghost Blog to Static Site Generators</b></summary>
 
 ### Day 2
 
@@ -49,7 +46,7 @@ I'm still deciding on which duo I prefer so I'll be playing around with both to 
 
   </details>
   
-<details><summary><b>Day 3</b></summary>
+<details><summary><b>Day 3: Officially Building With Gatsby</b></summary>
 
 ### Day 3
 
@@ -61,7 +58,7 @@ Also, worth noting, I added ![wakatime](https://wakatime.com/badge/user/c1c1c183
 
   </details>
   
-<details><summary><b>Day 4</b></summary>
+<details><summary><b>Day 4: Adding React Feather Icons</b></summary>
 
 ### Day 4
 
@@ -76,7 +73,7 @@ In addition to the icons, I also learned about dark mode practices and changed m
 
   </details>
   
-<details><summary><b>Day 5</b></summary>
+<details><summary><b>Day 5: Using Rough Notation</b></summary>
 
 ### Day 5
 
@@ -92,7 +89,7 @@ Here's what it looks like in my dark mode (slowed down by 50%):
 
   </details>
   
-<details><summary><b>Day 6</b></summary>
+<details><summary><b>Day 6: Adding More Functionality to Gatsby Site Using Gatsby Plugins</b></summary>
 
 ### Day 6
 
@@ -108,7 +105,7 @@ Regardless, I'm honestly excited whenever I bump into an issue - it's exciting t
 
   </details>
   
-<details><summary><b>Day 7</b></summary>
+<details><summary><b>Day 7: Adding Progressive Web App (PWA) Support</b></summary>
 
 ### Day 7
 
@@ -128,7 +125,7 @@ The same rules apply even on mobile! The website can be added to your Home Scree
 
   </details>
   
-<details><summary><b>Day 8</b></summary>
+<details><summary><b>Day 8: Adding Mobile-Responsiveness to Images & Columned Content</b></summary>
 
 ### Day 8
 
@@ -142,7 +139,7 @@ Additionally, I learned how to use `grid-template-column` - *another CSS propert
 
   </details>
   
-<details><summary><b>Day 9</b></summary>
+<details><summary><b>Day 9: Adding Support for .md Files & Adding <code>react accessible-accordion</code></b></summary>
 
 ### Day 9
 
@@ -156,7 +153,7 @@ Here's what it's currently looking like:
 
   </details>
   
-<details><summary><b>Day 10 + 11</b></summary>
+<details><summary><b>Day 10 + 11: Building A Knowledge Base for Digital Garden</b></summary>
 
 ### Day 10 + 11
 
@@ -168,7 +165,7 @@ I'm really excited to share these notes - I really think it'll be helpful to oth
 
   </details>
   
-<details><summary><b>Day 12</b></summary>
+<details><summary><b>Day 12: Adding Gradient Hover Over Links + Using <code>:not()</code></b></summary>
 
 ### Day 12
 
@@ -195,7 +192,7 @@ This solved the issue!
 
   </details>
   
-<details><summary><b>Day 13 + 14</b></summary>
+<details><summary><b>Day 13 + 14: Adding Separate Note Template & Section for Note Listings</b></summary>
 
 ### Day 13 + 14
 
@@ -213,7 +210,7 @@ I've also removed the Subscribe Form from the footer since it would show up on e
 
   </details>
   
-<details><summary><b>Day 15</b></summary>
+<details><summary><b>Day 15: CSS Styling Subscribe Form, Wiki Section, Code Syntax + Added Work-In-Progress Banner</b></summary>
 
 ### Day 15
 
@@ -240,7 +237,7 @@ Majority of my website is complete and functional with content available in the 
 
   </details>
   
-<details><summary><b>Day 16</b></summary>
+<details><summary><b>Day 16: Using Gatsby's GraphQL Explorer to Customize Wiki Section</b></summary>
 
 ### Day 16
 
@@ -264,7 +261,7 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 
   </details>
   
-<details><summary><b>Day 17</b></summary>
+<details><summary><b>Day 17: CSS Styling for Blog Header, Wiki Note Header + Added Tagging System for Wiki + Create Syllabus Page</b></summary>
 
 ### Day 17
 
@@ -292,7 +289,7 @@ For SEO, I used `react-helmet` within my wiki template so that it can pull title
 
   </details>
   
-<details><summary><b>Day 18</b></summary>
+<details><summary><b>Day 18: Build Syllabus Page With <code>react-accessible-accordion</code> & <code>react-tabs</code></b></summary>
 
 ### Day 18
 
@@ -311,13 +308,13 @@ So far, I've added the topics I've already completed my learning for. I'll be ad
   </details>
   
    
-  <details><summary><b>Day 19</b></summary>
+  <details><summary><b>Day 19 + 20: Add Content to Resource & Checklist Sections on Syllabus</b></summary>
     
-### Day 19
+### Day 19 + 20
     
 As mentioned in Day 17 & 18, I've been working on the [Syllabus](https://www.aniqa.io/syllabus) page on my [website](https://www.aniqa.io). The page serves as my own personal Full Stack Software Development roadmap, checklist, and list of resources to use.
     
-Today, I mostly worked on adding additional content for the resource and checklist section. The page currently shows the following information (although, a few may not be complete *just yet*):
+ Most of yesterday and today, I mostly worked on adding additional content for the resource and checklist section. The page currently shows the following information (although, a few may not be complete *just yet*):
 <p align="center"><img src="https://github.com/aniqatc/learning-journal/blob/main/Assets/current-syllabus-list.png?raw=true"></p>
     
 Once all the content is uploaded to the Syllabus page, I'll be working on making more wiki entries!
