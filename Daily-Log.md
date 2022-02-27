@@ -139,7 +139,7 @@ Additionally, I learned how to use `grid-template-column` - *another CSS propert
 
   </details>
   
-<details><summary><b>Day 9: Adding Support for .md Files & Adding <code>react accessible-accordion</code></b></summary>
+<details><summary><b>Day 9: Adding Support for .md Files & Adding <code>react-accessible-accordion</code></b></summary>
 
 ### Day 9
 
