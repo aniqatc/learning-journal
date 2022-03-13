@@ -319,14 +319,19 @@ As mentioned in Day 17 & 18, I've been working on the [Syllabus](https://www.ani
     
 Once all the content is uploaded to the Syllabus page, I'll be working on making more wiki entries!
   </details>
+  
+<details><summary><b>Day 21 - 23: Add Additional Styling to Wiki Section & Upload Content</b></summary>
+    
+### Day 21 - 23
+    
+Details coming soon!
+      
+</details>
 
 <hr/>
  
 
   <b>Quick notes about completion of <a href="https://www.aniqa.io/wiki">Wiki section</a>.</b>
   
-
-I'll likely only need to spend a day or two uploading the notes from my digital notebook - which I've been organizing and editing the crap out of so that others can understand it. I don't want to overload my page with all my notes all at once, so I'll probably post several each week as opposed to all of them at once. 
-
 **FYI, I have over 50 pages of notes totaling tens of thousands of words and dozens of images covering web fundamentals, chrome developer tools, command line, git, Github and GatsbyJS for the wiki section.** What I'm trying to say here is that it took a long time to get everything organized and edited to be presentable. My hope is that once everything is uploaded, I can rest easy and start working on other projects that I have planned!
   
