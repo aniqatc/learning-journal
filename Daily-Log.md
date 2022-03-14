@@ -335,6 +335,24 @@ Once all the content is uploaded to the Syllabus page, I'll be working on making
   Additionally, I added a repository version of all my [wiki entries](https://www.github.com/aniqatc/wiki) for those that prefer to view notes on the GitHub platform instead.
       
 </details>
+  
+
+<details><summary><b>Day 24: Add Key to Understand Wiki Entry Stages</b></summary>
+  
+<h3>Day 24</h3>
+
+In order to truly adopt the digital garden concept, I had added a frontmatter data entry for <b>Stage</b> which would represent whether my note was newly uploaded, still being edited but somewhat complete, or if it's entirely complete and will likely not be modified. To represent each, I used the following terms:
+  
+  - 🌱 Seedling
+  - 🌿 Sapling
+  - 🌳 Evergreen
+  
+While each of these terms were clearly displayed on each of the posts, I could see how some might not understand the exact meaning for each. So, I added a simple <b>key</b> to the <a href="https://www.aniqa.io/wiki">wiki index</a> using the following design:
+  
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/wiki-key.gif"></p>
+    
+</details>
+  
 
 <hr/>
  
