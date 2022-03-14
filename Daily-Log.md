@@ -353,6 +353,25 @@ While each of these terms were clearly displayed on each of the posts, I could s
     
 </details>
   
+  
+    
+<details><summary><b>Day 25: Use GraphQL StaticQuery Hook to Customize Wiki Entry List</b></summary>
+    
+<h3>Day 25</h3>
+
+Previously, the Wiki section displayed the current list of entries using the relative URL path for each individual entry:
+    
+<p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/wiki-list-%5Bdefault%5D.png"></p>
+  
+While many can assume the contents of each entry based on the URL path, it still feels unfinished and repetitive to me. I'd rather the individual title appear in place of the URL path providing a <b>more clear understanding</b> of each entry alongside the stage and/or topic each entry falls under.
+  
+  To do so, I used the <b>GrapQL Explorer</b> that is accessed at <code>http://localhost:8000/___graphql</code>.
+  
+  
+  <i>More details coming soon</i>.
+
+</details>
+  
 
 <hr/>
  
