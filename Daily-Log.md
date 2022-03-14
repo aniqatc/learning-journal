@@ -323,8 +323,16 @@ Once all the content is uploaded to the Syllabus page, I'll be working on making
 <details><summary><b>Day 21 - 23: Add Additional Styling to Wiki Section & Upload Content</b></summary>
     
 ### Day 21 - 23
-    
-Details coming soon!
+
+  My [syllabus page](https://www.aniqa.io/syllabus) is coming along beautifully. The <b>checklist tab</b> is mostly complete, however, the <b>resources tab</b> has a view empty spots. This is because I have not yet vetted and confirmed the best resources for those specific topics. I still think it's a pretty solid <i>plan</i> for beginners that want to dive deep!
+  
+  Anyways, for <b>Days 21 to 23</b>, I reviewed my previous notes regarding [web fundamentals](https://www.aniqa.io/wiki/web) and [web security fundamentals](https://www.aniqa.io/wiki/security) and uploaded them to the [wiki section](https://www.aniqa.io/wiki) of my website! So far, I was able to add notes regarding the following topics:
+  
+  <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/wiki-web-entries.png" style="width:600px;"></p>
+  
+  I have dozens more of these entries covering several more topics that will continue to be uploaded in the coming days and weeks.
+  
+  Additionally, I added a repository version of all my [wiki entries](https://www.github.com/aniqatc/wiki) for those that prefer to view notes on the GitHub platform instead.
       
 </details>
 
