@@ -372,6 +372,40 @@ While many can assume the contents of each entry based on the URL path, it still
 
 </details>
   
+  
+<details><summary><b>Day 26: Adding 'Keywords' Meta Tag for Additional SEO</b></summary>
+    
+<h3>Day 26</h3>
+
+  Apparently, there used to be a meta tag for <b>keywords</b> that was used to specify tags that relate to a website's content (or individual page content) but it has become obsolete because it was abused by website creators that would spam their keyword list with thousands of keywords to rank high for various Google search results. 
+  
+  Despite knowing that piece of information, I wanted to add the keyword meta tag <i>anyways</i>. Some say that other search engines (e.g Bing, etc) may still use the keywords meta tag when bots are crawling a website. I figured it couldn't hurt to add an additional tag with information that could potentially help my website rank higher in search results. 
+  
+  Here's what the current state of my <code>seo.tsx</code> file looks like:
+  
+ <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/seo-code.png" style="width:520px;"></p>
+  
+  You'll see that all the key SEO tags <i>(title, description, image, author & icon, etc)</i> and social media sharing <i>(Twitter Cards)</i> are already specified. Unless specified for an individual page, the page will show the <b>default information</b> for all these tags which is specified in my <code>gatsby.config.js</code> file. 
+  
+  <b>Here's how:</b>
+  
+ In order to add the <code>keywords</code> tag, I needed to first query the data using <b>GraphQL</b>. With the help of Gatsby's GraphQL Explorer, I was able to find the <code>edges</code> and <code>nodes</code> that pointed to <code>keywords</code>. This information was added to the <b>frontmatter</b> of my Markdown files for both <a href="https://www.aniqa.io/blog">blog posts</a> and <a href="https://www.aniqa.io/wiki">wiki note entries</a>. Then, I added the GraphQL query to the relevant component files for blog posts and wiki entries.
+  
+  After doing so, I would be able to pull the information to <code>seo.tsx</code> file that utilizes <code>react-helmet</code> for the SEO meta tags. Once I defined <code>keywords</code>, I was able to add the following code to define the meta tag so that it can be called and used within other component files:
+  
+  ```
+  <meta name="keywords" content={keywords} />
+  ```
+
+  Lastly, I had to add the <code>keyword</code> attribute to the individual layout files for my blog posts and wiki entries -- since they already utilized the <b>SEO</b> component, I only needed to add the highlighted section:
+  
+   <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/import-seo-to-components.png"></p>
+  
+  <b>To ensure that this addition is working as intended:</b> I used Chrome Developer Tools, Element Panel to view if my keywords were successfully being pulled from my Markdown files and being displayed within the <code>keyword</code> meta tag's <code>content</code> attribute. <b>It is working!</b>
+  
+  
+</details>
+  
 
 <hr/>
  
