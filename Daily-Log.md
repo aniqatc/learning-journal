@@ -385,11 +385,11 @@ While many can assume the contents of each entry based on the URL path, it still
   
  <p align="center"><img src="https://raw.githubusercontent.com/aniqatc/learning-journal/main/Assets/seo-code.png" style="width:520px;"></p>
   
-  You'll see that all the key SEO tags <i>(title, description, image, author & icon, etc)</i> and social media sharing <i>(Twitter Cards)</i> are already specified. Unless specified for an individual page, the page will show the <b>default information</b> for all these tags which is specified in my <code>gatsby.config.js</code> file. 
+  You'll see that all the key SEO tags <i>(title, description, image, author & icon, etc)</i> and social media sharing <i>(Twitter Cards)</i> are already specified. Unless otherwise specified for a specific page, all pages will show the <b>default information</b> for all these tags which is specified in my <code>gatsby.config.js</code> file. For example, all blog posts will show the description that is specified in the Markdown file for each individual post, however, if a description is not specified, the general site description will be used instead.
   
   <b>Here's how:</b>
   
- In order to add the <code>keywords</code> tag, I needed to first query the data using <b>GraphQL</b>. With the help of Gatsby's GraphQL Explorer, I was able to find the <code>edges</code> and <code>nodes</code> that pointed to <code>keywords</code>. This information was added to the <b>frontmatter</b> of my Markdown files for both <a href="https://www.aniqa.io/blog">blog posts</a> and <a href="https://www.aniqa.io/wiki">wiki note entries</a>. Then, I added the GraphQL query to the relevant component files for blog posts and wiki entries.
+ In order to add the <code>keywords</code> tag, I needed to first query the data using <b>GraphQL</b>. With the help of Gatsby's GraphQL Explorer, I was able to find the <code>edges</code> and <code>nodes</code> that pointed to the <code>keywords</code> data point. This information was added to the <b>frontmatter</b> of my Markdown files for both <a href="https://www.aniqa.io/blog">blog posts</a> and <a href="https://www.aniqa.io/wiki">wiki note entries</a>. Then, I added the GraphQL query to the relevant component files for blog posts and wiki entries.
   
   After doing so, I would be able to pull the information to <code>seo.tsx</code> file that utilizes <code>react-helmet</code> for the SEO meta tags. Once I defined <code>keywords</code>, I was able to add the following code to define the meta tag so that it can be called and used within other component files:
   
